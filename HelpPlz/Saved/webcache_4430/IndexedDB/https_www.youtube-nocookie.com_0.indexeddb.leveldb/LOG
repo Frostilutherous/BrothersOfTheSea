@@ -1,0 +1,8 @@
+2023/06/23-00:24:50.379 575c Reusing MANIFEST C:/Users/lukes/OneDrive/Desktop/All/Game/Animation/Movement2.0/HelpPlz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/23-00:24:50.379 575c Recovering log #4
+2023/06/23-00:24:50.380 575c Reusing old log C:/Users/lukes/OneDrive/Desktop/All/Game/Animation/Movement2.0/HelpPlz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/06/23-00:31:06.236 5338 Level-0 table #8: started
+2023/06/23-00:31:06.236 5338 Level-0 table #8: 0 bytes OK
+2023/06/23-00:31:06.239 5338 Delete type=0 #4
+2023/06/23-00:31:06.244 5338 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/23-00:31:06.244 5338 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/06/23-00:24:10.732 53c0 Creating DB C:/Users/lukes/OneDrive/Desktop/All/Game/Animation/Movement2.0/HelpPlz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/06/23-00:24:10.748 53c0 Reusing MANIFEST C:/Users/lukes/OneDrive/Desktop/All/Game/Animation/Movement2.0/HelpPlz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/23-00:24:41.868 53c0 Level-0 table #5: started
+2023/06/23-00:24:41.884 53c0 Level-0 table #5: 1167 bytes OK
+2023/06/23-00:24:41.887 53c0 Delete type=0 #3
+2023/06/23-00:24:41.889 53c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
