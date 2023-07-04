@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/suppo/Desktop/Sea Rising/repo/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Door/BP_Interact_Door.uasset",
 				"C:/Users/suppo/Desktop/Sea Rising/repo/BrothersOfTheSea/HelpPlz/Content/Developers/John/Collections/Structural/BP_WallDoor_PalmLog.uasset",
 				"C:/Users/suppo/Desktop/Sea Rising/repo/BrothersOfTheSea/HelpPlz/Content/Developers/John/Collections/Structural/BP_Interact_Door.uasset",
@@ -23,6 +24,27 @@
 				"C:/Users/suppo/Desktop/Sea Rising/repo/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZJ/S232BWVNUKJCH2CI2MBOKO.uasset",
 				"C:/Users/suppo/Desktop/Sea Rising/repo/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DX/WDIV3JQ7PHIWR5RTVR11PJ.uasset",
 				"C:/Users/suppo/Desktop/Sea Rising/repo/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9C/I083JMBUVG6XKDEISDN78E.uasset"
+=======
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Inventory/WB_Inventory.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/71/0I50OTCTE4BUJ3MKQ95BQB.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/87/91OKALBTQEEYBVAY2TMQDI.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/V6/7HA9B6LUZ71AVE81Q71BV9.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/12/KHTS2KWWO6Q67C4FE982WD.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TV/DWYO9YMZLBJXYXKY11FP1Z.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5B/EGJ2Q3H1ZH9REXVROTU5H2.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/29/OM54OVNPCX0D2W5GYKJXNK.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4F/B3ZM01425L7SOVLWD0Y54I.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L3/5I0GTJ37IFLA6XO6L6E7Q1.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Inventory/BP_Log.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Inventory/BP_Rock.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BK/NRRHGUNZ6N5NNWXMH2F707.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/B1/1RPXYMWKJXKX4B6665IUDH.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DZ/0DROGAD9FQR9YYVZQSS094.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Inventory/AC_Inventory.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Inventory/WB_InventorySlot.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Inventory/WB_ItemDropAmount.uasset",
+				"C:/Users/lukes/OneDrive/Desktop/All/Game/New folder/BrothersOfTheSea/HelpPlz/Content/1MyStuff/Inventory/E_ItemType.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
