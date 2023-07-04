@@ -1,0 +1,28 @@
+Type the asset code in Quixel Bridge to find the 3D Asset.
+Download the asset and input it into the Landscape Foliage Grass type procedurals to use it on your terrain.
+
+Megascans assets code:
+
+- Dead_Branches_qjuwd
+- Dry_Branches_pdye3
+- Tundra_Boulder_viurbeqaw
+- Tundra_Boulder_viusbhwaw
+- Tundra_Stone_vivrbfeaw
+- Tundra_Stone_vivufbqaw
+- Tundra_Stone_vivvbhsaw
+
+Plants
+
+- Bigleaf_Hydrangea_vgztealha
+- Cotton_Grass_wlykecdia
+- Ribbon_Grass_tbdpec3r
+- Sea_Thrift_vkbgaihha
+
+Surfaces
+
+- MI_Rocky_Forest_Ground_wdppfcs
+- Mossy_Rocky_Ground_vcqhcig
+- Rock_Cliff_vl1lbbylw
+- Rocky_Ground_vl0oadqfw
+- Snow_Cliff_uhqncfpdy
+- Wild_Mossy_Grass_vcpnffas
